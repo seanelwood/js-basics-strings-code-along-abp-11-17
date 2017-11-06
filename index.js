@@ -6,4 +6,4 @@ let excitedWelcomeMessage = `WELCOME TO FLATBOOK, ${currentUser.toUpperCase()}!`
 
 //let shortGreeting = "Welcome, " + currentUser.slice(0,1) + "!";
 
-let shortGreeting = `Welcome, ${currentUser.slice(0,1)}!;
+let shortGreeting = `Welcome, ${currentUser.slice(0,1)}!`;
